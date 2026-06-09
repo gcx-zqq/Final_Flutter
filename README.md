@@ -158,6 +158,17 @@ name,classroom,dayOfWeek,period
 3. **Reminders (提醒)** - 查看智能提醒消息
 4. **Settings (设置)** - 个性化设置和数据管理
 
+## ���չʾ
+
+������Ӧ������ʵ�豸�ϵ�����Ч����
+
+### ����ҳ��
+![����ҳ��](photo1.jpg)
+
+### ����ҳ��
+![����ҳ��](photo2.jpg)
+
+## �������
 ## 使用截图
 
 ![Schedule](lib/flutter_run_1.jpg)
